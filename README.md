@@ -13,4 +13,6 @@
 * Create a post with a photo and caption.
 * View posts in the user’s feed.
 
-![ezgif com-video-to-gif-converter (7)](https://github.com/user-attachments/assets/fc50b801-4101-4b35-afce-78cddd75e4b5)
+
+![ezgif com-video-to-gif-converter (7)](https://github.com/user-attachments/assets/6b57df7f-bf00-4a82-ac3c-7aaf75635dd1)
+
