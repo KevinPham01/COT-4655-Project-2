@@ -1,4 +1,4 @@
-# COT-4655-Lab-2
+# COT-4655-Project-2
 
 ## What I Learned
 * Setting up a Parse Server: Configured a custom remote Parse backend server to handle authentication and data storage.
@@ -14,5 +14,6 @@
 * View posts in the user’s feed.
 
 
-![ezgif com-video-to-gif-converter (7)](https://github.com/user-attachments/assets/6b57df7f-bf00-4a82-ac3c-7aaf75635dd1)
+
+![COP5930-005Project2-ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/f504b5ab-657f-4a6e-9b9c-807ddb61dca6)
 
